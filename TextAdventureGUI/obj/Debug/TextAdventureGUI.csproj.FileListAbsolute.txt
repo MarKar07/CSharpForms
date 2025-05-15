@@ -2,7 +2,6 @@ C:\Users\s4maka07\OneDrive - OSAO\C#\TextAdventureGUI\TextAdventureGUI\bin\Debug
 C:\Users\s4maka07\OneDrive - OSAO\C#\TextAdventureGUI\TextAdventureGUI\bin\Debug\TextAdventureGUI.exe
 C:\Users\s4maka07\OneDrive - OSAO\C#\TextAdventureGUI\TextAdventureGUI\bin\Debug\TextAdventureGUI.pdb
 C:\Users\s4maka07\OneDrive - OSAO\C#\TextAdventureGUI\TextAdventureGUI\obj\Debug\TextAdventureGUI.csproj.AssemblyReference.cache
-C:\Users\s4maka07\OneDrive - OSAO\C#\TextAdventureGUI\TextAdventureGUI\obj\Debug\TextAdventureGUI.Form1.resources
 C:\Users\s4maka07\OneDrive - OSAO\C#\TextAdventureGUI\TextAdventureGUI\obj\Debug\TextAdventureGUI.Properties.Resources.resources
 C:\Users\s4maka07\OneDrive - OSAO\C#\TextAdventureGUI\TextAdventureGUI\obj\Debug\TextAdventureGUI.csproj.GenerateResource.cache
 C:\Users\s4maka07\OneDrive - OSAO\C#\TextAdventureGUI\TextAdventureGUI\obj\Debug\TextAdventureGUI.csproj.CoreCompileInputs.cache
@@ -10,8 +9,9 @@ C:\Users\s4maka07\OneDrive - OSAO\C#\TextAdventureGUI\TextAdventureGUI\obj\Debug
 C:\Users\s4maka07\OneDrive - OSAO\C#\TextAdventureGUI\TextAdventureGUI\obj\Debug\TextAdventureGUI.pdb
 C:\Users\s4maka07\OneDrive - OSAO\C#\TextAdventureGUI\TextAdventureGUI\bin\Debug\Images\dungeon.jpg
 C:\Users\s4maka07\OneDrive - OSAO\C#\TextAdventureGUI\TextAdventureGUI\bin\Debug\Images\entrance.jpg
-C:\Users\s4maka07\OneDrive - OSAO\C#\TextAdventureGUI\TextAdventureGUI\bin\Debug\Images\landing.jpg
 C:\Users\s4maka07\OneDrive - OSAO\C#\TextAdventureGUI\TextAdventureGUI\bin\Debug\Images\mainhall.jpg
 C:\Users\s4maka07\OneDrive - OSAO\C#\TextAdventureGUI\TextAdventureGUI\bin\Debug\Images\skeletonroom.jpg
 C:\Users\s4maka07\OneDrive - OSAO\C#\TextAdventureGUI\TextAdventureGUI\bin\Debug\Images\studyroom.jpg
 C:\Users\s4maka07\OneDrive - OSAO\C#\TextAdventureGUI\TextAdventureGUI\bin\Debug\Images\treasury.jpg
+C:\Users\s4maka07\OneDrive - OSAO\C#\TextAdventureGUI\TextAdventureGUI\bin\Debug\Images\landing.jpg
+C:\Users\s4maka07\OneDrive - OSAO\C#\TextAdventureGUI\TextAdventureGUI\obj\Debug\TextAdventureGUI.Linnaseikkailu.resources

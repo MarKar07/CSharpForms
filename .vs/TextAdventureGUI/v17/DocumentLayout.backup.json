@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\s4maka07\\OneDrive - OSAO\\C#\\TextAdventureGUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A62627CC-A29F-4F99-9340-097CABB1615D}|TextAdventureGUI\\TextAdventureGUI.csproj|c:\\users\\s4maka07\\onedrive - osao\\c#\\textadventuregui\\textadventuregui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A62627CC-A29F-4F99-9340-097CABB1615D}|TextAdventureGUI\\TextAdventureGUI.csproj|C:\\Users\\s4maka07\\OneDrive - OSAO\\C#\\TextAdventureGUI\\textadventuregui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A62627CC-A29F-4F99-9340-097CABB1615D}|TextAdventureGUI\\TextAdventureGUI.csproj|solutionrelative:textadventuregui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A62627CC-A29F-4F99-9340-097CABB1615D}|TextAdventureGUI\\TextAdventureGUI.csproj|C:\\Users\\s4maka07\\OneDrive - OSAO\\C#\\TextAdventureGUI\\textadventuregui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A62627CC-A29F-4F99-9340-097CABB1615D}|TextAdventureGUI\\TextAdventureGUI.csproj|solutionrelative:textadventuregui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A62627CC-A29F-4F99-9340-097CABB1615D}|TextAdventureGUI\\TextAdventureGUI.csproj|C:\\Users\\s4maka07\\OneDrive - OSAO\\C#\\TextAdventureGUI\\textadventuregui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A62627CC-A29F-4F99-9340-097CABB1615D}|TextAdventureGUI\\TextAdventureGUI.csproj|solutionrelative:textadventuregui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A62627CC-A29F-4F99-9340-097CABB1615D}|TextAdventureGUI\\TextAdventureGUI.csproj|C:\\Users\\s4maka07\\OneDrive - OSAO\\C#\\TextAdventureGUI\\textadventuregui\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A62627CC-A29F-4F99-9340-097CABB1615D}|TextAdventureGUI\\TextAdventureGUI.csproj|C:\\Users\\s4maka07\\OneDrive - OSAO\\C#\\TextAdventureGUI\\textadventuregui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62627CC-A29F-4F99-9340-097CABB1615D}|TextAdventureGUI\\TextAdventureGUI.csproj|solutionrelative:textadventuregui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62627CC-A29F-4F99-9340-097CABB1615D}|TextAdventureGUI\\TextAdventureGUI.csproj|c:\\users\\s4maka07\\onedrive - osao\\c#\\textadventuregui\\textadventuregui\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A62627CC-A29F-4F99-9340-097CABB1615D}|TextAdventureGUI\\TextAdventureGUI.csproj|solutionrelative:textadventuregui\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -30,30 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\s4maka07\\OneDrive - OSAO\\C#\\TextAdventureGUI\\TextAdventureGUI\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "TextAdventureGUI\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\s4maka07\\OneDrive - OSAO\\C#\\TextAdventureGUI\\TextAdventureGUI\\Form1.Designer.cs",
               "RelativeToolTip": "TextAdventureGUI\\Form1.Designer.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAiwBoBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwD8BAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T08:37:14.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\s4maka07\\OneDrive - OSAO\\C#\\TextAdventureGUI\\TextAdventureGUI\\Form1.cs",
               "RelativeDocumentMoniker": "TextAdventureGUI\\Form1.cs",
               "ToolTip": "C:\\Users\\s4maka07\\OneDrive - OSAO\\C#\\TextAdventureGUI\\TextAdventureGUI\\Form1.cs",
               "RelativeToolTip": "TextAdventureGUI\\Form1.cs",
-              "ViewState": "AgIAACoBAAAAAAAAAAAqwP8BAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T08:38:36.416Z",
               "EditorCaption": ""
@@ -66,9 +70,10 @@
               "RelativeDocumentMoniker": "TextAdventureGUI\\Player.cs",
               "ToolTip": "C:\\Users\\s4maka07\\OneDrive - OSAO\\C#\\TextAdventureGUI\\TextAdventureGUI\\Player.cs",
               "RelativeToolTip": "TextAdventureGUI\\Player.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwCsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T08:30:00.633Z"
+              "WhenOpened": "2025-05-14T08:30:00.633Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -78,7 +83,7 @@
               "RelativeDocumentMoniker": "TextAdventureGUI\\Item.cs",
               "ToolTip": "C:\\Users\\s4maka07\\OneDrive - OSAO\\C#\\TextAdventureGUI\\TextAdventureGUI\\Item.cs",
               "RelativeToolTip": "TextAdventureGUI\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T08:28:54.118Z"
             },

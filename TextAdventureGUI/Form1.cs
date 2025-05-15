@@ -11,14 +11,20 @@ using System.Drawing.Drawing2D;
 
 namespace TextAdventureGUI
 {
-    public partial class Form1 : Form
+    public partial class Linnaseikkailu : Form
     {
         // Game state
         private Player player;
         private bool gameRunning;
         private const string saveFile = "savegame.txt";
+        private Color themeBackColor = ColorTranslator.FromHtml("#2C2416");      // Tumma ruskea
+        private Color themeParchmentColor = ColorTranslator.FromHtml("#EDE4D4"); // Pergamentti
+        private Color themeGoldColor = ColorTranslator.FromHtml("#D4AF37");      // Kulta
+        private Color themeStoneColor = ColorTranslator.FromHtml("#767676");     // Kiviharmaa
+        private Color themeAccentColor = ColorTranslator.FromHtml("#8B0000");    // Tummanpunainen
 
-        public Form1()
+
+        public Linnaseikkailu()
         {
             InitializeComponent();
             InitializeGame();
