@@ -1,41 +1,54 @@
-# Tekstiseikkailupeli englanniksi
+# Tekstiseikkailu Windows Forms -sovellus
 
 ## Sovelluksen toiminta ja käyttötarkoitus
-Tämä tekstiseikkailu on konsolipohjainen roolipeli, jossa pelaaja tutkii vanhaa linnaa. Pelaaja voi liikkua huoneesta toiseen, löytää esineitä, kerätä kultaa ja lopulta paeta linnasta. Pelin tarkoitus on viihdyttää ja tarjota interaktiivinen tarinakokemus.
 
-## Sovelluksen vuokaavio
-[Lisää kuva vuokaaviosta tähän]
+Tämä sovellus on graafinen tekstiseikkailu, jossa pelaaja voi tutkia linnaa, löytää esineitä ja kohdata erilaisia valintoja. Sovellus on toteutettu C#-kielellä ja Windows Forms -teknologialla.
+
+Pelissä pelaaja:
+- Navigoi linnan eri huoneissa
+- Kerää esineitä (avain, kirja, kultakolikot)
+- Ratkaisee ongelmia (lukittu ovi vaatii avaimen)
+- Pyrkii pakenemaan linnasta mahdollisimman rikkaana
+
+## Vuokaavio sovelluksesta
 
 ## Kuvakaappaukset sovelluksesta
-![save_game2](https://github.com/user-attachments/assets/9cb3893c-c935-44e4-9baa-eb7c26cc2f13)  <br>
-![save_game1](https://github.com/user-attachments/assets/734b310f-3054-4fd2-8ee2-d4dab61c9378)  <br>
-![help](https://github.com/user-attachments/assets/290dfdd0-7331-485a-8f55-32284e45f3cf)  <br>
-![stats](https://github.com/user-attachments/assets/1470915f-efda-460f-b345-d398b0639112)  <br>
-![end](https://github.com/user-attachments/assets/be4825e1-8397-472c-8816-a0df5cb8ddc5)  <br>
 
-## Koodin pääkohdat
+## Pääkohdat koodista
 
-Pelin voin tallentaa ja sen voin ladata myöhemmin. "help"-komennolla peli antaa apua.
+### Pelilogiikka
 
-### Player-luokka
-Hallinnoi pelaajan tietoja kuten terveyttä, kultaa ja tavaraluetteloa.
+Pelin keskeinen logiikka on toteutettu Form1.cs-tiedostossa, jossa DisplayLocation-metodi vastaa pelimaailman näyttämisestä:
 
 ```csharp
+private void DisplayLocation(string location)
+{
+    player.CurrentLocation = location;
+    
+    // Päivitä sijainnin kuva
+    UpdateLocationImage(location);
+    
+    storytext.Clear();
+    
+    switch (location)
+    {
+        case "Entrance":
+            // Sisäänkäynnin logiikka
+            break;
+        case "MainHall":
+            // Pääaulan logiikka
+            break;
+        // jne.
+    }
+}
+
+Player-luokka hallinnoi pelaajan tietoja kuten inventaariota ja sijaintia:
+
 public class Player
 {
     public int Health { get; set; }
     public int Gold { get; set; }
     public List<Item> Inventory { get; set; }
     public string CurrentLocation { get; set; }
-    
-    // Metodeita pelaajan toimintoihin...
-}
-
-public class Game
-{
-    // Pelin käynnistys ja hallinta...
-    
-    // Tallennusjärjestelmä...
-    
-    // Huoneet ja siirtymät...
+    // jne.
 }
