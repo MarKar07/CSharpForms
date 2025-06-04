@@ -1,5 +1,0 @@
-Location:MainHall
-Health:100
-Gold:0
-HasKey:False
-ItemCount:0
