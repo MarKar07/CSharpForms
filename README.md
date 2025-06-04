@@ -22,11 +22,11 @@ Pelissä pelaaja:
 ![Näyttökuva 2025-06-04 082754](https://github.com/user-attachments/assets/50c23bc9-75b5-4c13-9fcd-f4721f631dbd)
 
 ## Jatkokehitysideat
-Musiikin ja äänien lisääminen
-Vihollisten ja taistelun lisääminen
-Lisää huoneita
-Ulkoasun parantaminen
-Hahmonkehityksen luominen
+- Musiikin ja äänien lisääminen
+- Vihollisten ja taistelun lisääminen
+- Lisää huoneita
+- Ulkoasun parantaminen
+- Hahmonkehityksen luominen
 
 ## Pääkohdat koodista
 
