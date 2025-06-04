@@ -11,8 +11,15 @@ Pelissä pelaaja:
 - Pyrkii pakenemaan linnasta mahdollisimman rikkaana
 
 ## Vuokaavio sovelluksesta
+![vuo](https://github.com/user-attachments/assets/0799a8d6-e42d-48ee-b0f3-3713c8486c28)
 
 ## Kuvakaappaukset sovelluksesta
+
+![Näyttökuva 2025-06-04 082623](https://github.com/user-attachments/assets/b8ceb503-0c96-45a1-a7d8-bd16e3460398)
+
+![Näyttökuva 2025-06-04 082714](https://github.com/user-attachments/assets/e7fb8b22-8da6-439b-8a2b-a7a8b32f072a)
+
+![Näyttökuva 2025-06-04 082754](https://github.com/user-attachments/assets/50c23bc9-75b5-4c13-9fcd-f4721f631dbd)
 
 ## Pääkohdat koodista
 
@@ -52,3 +59,10 @@ public class Player
     public string CurrentLocation { get; set; }
     // jne.
 }
+
+## Jatkokehitysideat
+Musiikin ja äänien lisääminen
+Vihollisten ja taistelun lisääminen
+Lisää huoneita
+Ulkoasun parantaminen
+Hahmonkehityksen luominen
